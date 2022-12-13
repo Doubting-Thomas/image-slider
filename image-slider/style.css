@@ -12,8 +12,9 @@ body {
   font-weight: 400;
   line-height: 1.6;
   max-width: 60rem;
-  color: #000;
+  color: #e5e5e5;
   text-align: center;
+  background-color: #14213d;
 
   margin: 0 20rem;
 }
@@ -56,9 +57,9 @@ body {
 
 .slide__btn {
   border: none;
-  background: rgba(255, 255, 255, 0.7);
+  background-color: #023047;
   font-family: inherit;
-  color: #333;
+  color: #ffffff;
   border-radius: 50%;
   height: 5rem;
   width: 5rem;
@@ -72,10 +73,16 @@ body {
 }
 
 .btn--left {
-  left: 4%;
+  left: 6%;
 }
 
 .btn--right {
-  right: -5%;
+  right: -4%;
 }
+
+.arrow {
+  position: relative;
+  top: -5%;
+}
+
 
