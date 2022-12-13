@@ -45,6 +45,7 @@ body {
   top: 0;
   width: 100%;
   height: 30rem;
+  transition: all 2s;
 }
 
 .slide-img {
@@ -75,6 +76,6 @@ body {
 }
 
 .btn--right {
-  right: -10%;
+  right: -5%;
 }
 
